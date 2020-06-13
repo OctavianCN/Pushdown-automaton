@@ -1,0 +1,17 @@
+6 1
+0
+5
+4
+a b c d
+9
+a A 2 A A 0 1
+a Z 2 A Z 0 1
+a A 3 A A A 1 0
+b A 1 e 0 2
+b A 1 e 2 2
+c D 2 D D 2 3
+c Z 2 D Z 2 3
+c D 1 D 3 2
+d D 1 e 2 4
+d D 1 e 4 4
+e Z 1 e 4 5
